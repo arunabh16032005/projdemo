@@ -1,2 +1,0 @@
-# projdemo
-demo project space
